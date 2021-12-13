@@ -1,11 +1,11 @@
-import "./App.css";
-import StyledComponents from "./components/styled-comp/StyledComponents";
+import './App.css';
+
 function App() {
   return (
     <>
       <div className="App">
         <header className="App-header">
-          <StyledComponents />
+          <h1>Styled Components & Material UI</h1>
         </header>
       </div>
     </>
